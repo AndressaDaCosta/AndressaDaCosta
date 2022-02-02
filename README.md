@@ -22,14 +22,15 @@
 
 <img width="400" align="right" alt="Woman Coder.gif" src="Woman Coder.gif" />
 
-![AndressaDaCosta's github stats](https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&bg&theme=material-palenight)
+<!--- 
+![AndressaDaCosta's github stats](https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&bg&theme=material-palenight) --->
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /></p>
 
 
 
 ## 👨‍💻 Tech Stack I am Familiar With
-
+<!--- 
 <p align="center">
 <br/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
@@ -42,7 +43,7 @@
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white" style="margin:2px;"/>
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier%20-%23117AC9.svg?&style=for-the-badge&logo=Zapier&logoColor=white" style="margin:2px;"/>
 <br/>
-</p>
+</p>--->
 
 
 
