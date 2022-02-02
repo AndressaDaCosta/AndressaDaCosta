@@ -22,7 +22,9 @@
 
 <img width="400" align="right" alt="Woman Coder.gif" src="Woman Coder.gif" />
 
-![AndressaDaCosta's github stats](https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&hide_border=true&bg&theme=material-palenight)
+![AndressaDaCosta's github stats](https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&bg&theme=material-palenight)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /></p>
 
 
 
@@ -47,21 +49,51 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaDaCosta&show_icons=true&locale=en&layout=compact" alt="AndressaDaCosta" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /></p>
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&" alt="AndressaDaCosta" /></p>
 
 <hr>
 
+
+
+
+
+
+
+
+
+
+
+
+<!--- Snake: --->
+
 <p align="center">
-  <img src="https://github.com/Abhijay007/Abhijay007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
   
-  
+ 
   
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   <!---Languagem and tools:
