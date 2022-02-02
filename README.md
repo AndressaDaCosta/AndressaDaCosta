@@ -1,4 +1,4 @@
-### Hi there :wave: <img alt = gif src ="hand.gif" width= "20"/>, I'm @Andressa Costa
+### Hi there :wave: <img alt = gif src ="https://i.ibb.co/b3js5Md/hand.gif" width= "20"/>, I'm @Andressa Costa
 
 
 - 👩‍💻  I'm currently working on my development skills. :rocket:!
