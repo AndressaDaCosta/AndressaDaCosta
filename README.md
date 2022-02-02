@@ -8,7 +8,7 @@
 
 
 
-  [<img src="https://i.ibb.co/b3hnPpx/Me.png<" width="35" style="border-radius:50%">](https://AndressaDaCosta.github.io) [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-costa-286173225/)](https://www.linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+  [<img src="https://i.ibb.co/b3hnPpx/Me.png<" width="35" style="border-radius:50%">](https://www.linkedin.com/in/andressa-costa-286173225/) [![linkedin: AndressaDaCosta](https://img.shields.io/badge/-AndressaDaCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-costa-286173225/)](https://www.linkedin.com/in/andressa-costa-286173225/)   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
 
   
   <!---
