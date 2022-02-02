@@ -9,6 +9,7 @@
 - 💬 Ask me about ... Javascript,CSS..
 - ⚡ Fun fact: I love astronomy. :woman_astronaut: :ringed_planet:  :stars: 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=Profile%20views&color=0e75b6&style=flat" alt="AndressaDaCosta" /> </p>
 
 ## 📫 How to reach me:
 
