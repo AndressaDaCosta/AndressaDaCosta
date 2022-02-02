@@ -2,8 +2,7 @@
 
 
 
-- 👩‍💻  I'm currently working on my development skills. :rocket:!
-- 🌱 I’m currently learning programming.
+- 👩‍💻  I'm currently learning programming :rocket:!
 - 👯 I’m looking to collaborate  with other developers.
 - 🤝 I'm looking to team-up for ... Hackathons and coding events 
 - 💬 Ask me about ... Javascript,CSS..
