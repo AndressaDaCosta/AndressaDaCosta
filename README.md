@@ -20,8 +20,7 @@
 
 
 ## 🏆 Github Status
-
-<img width="280" align="right" alt="Woman Coder.gif" src="Woman Coder.gif" /> <img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /> </p> <img width="280" align="right" alt="Woman Coder.gif" src="Woman Coder.gif" />
 
 
 
