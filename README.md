@@ -42,10 +42,21 @@
 <br/>
 </p>
 
+
+
+
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaDaCosta&show_icons=true&locale=en&layout=compact" alt="AndressaDaCosta" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&locale=en" alt="AndressaDaCosta" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&" alt="AndressaDaCosta" /></p>
+
 <hr>
 
 <p align="center">
-  <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Abhijay007/Abhijay007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
   
   
