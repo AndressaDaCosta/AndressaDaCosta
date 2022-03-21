@@ -3,8 +3,6 @@
 
 
 - 👩‍💻  I'm currently learning programming :rocket:!
-- 👯 I’m looking to collaborate  with other developers.
-- 🤝 I'm looking to team-up for ... Hackathons and coding events 
 - 💬 Ask me about ... Javascript,CSS..
 - ⚡ Fun fact: I love astronomy. :woman_astronaut: :ringed_planet:  :stars: 
 
@@ -13,7 +11,12 @@
 ## 📫 How to reach me:
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:andressadacostan@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andressa-costa-286173225/detail/recent-activity/) [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+<a href="https://www.linkedin.com/in/AndressaDaCosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://https://www.instagram.com/andressacostaaaaaa_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+
+         
+    
 
 
 
