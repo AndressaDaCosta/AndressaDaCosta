@@ -13,7 +13,7 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:andressadacostan@gmail.com)
 <a href="https://www.linkedin.com/in/andressa-costa-286173225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/andressacostaaaaaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+<a href="https://discord.gg/w2dgEXFgtS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
 
          
     
