@@ -10,10 +10,15 @@
 
 ## 📫 How to reach me:
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:andressadacostan@gmail.com)
+[<img alt="Email" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:andressadacostan@gmail.com)
+<a href="https://t.me/andressadacosta">
+  <img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+ </a>
 <a href="https://www.linkedin.com/in/andressa-costa-286173225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/andressacostaaaaaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/w2dgEXFgtS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   [![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
+<a href="https://discord.gg/w2dgEXFgtS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="">
+  <img src="https://img.shields.io/badge/Website-FF5244?style=for-the-badge&logo=website&logoColor=white"></a>[![gitHub AndressaDaCosta](https://img.shields.io/github/followers/AndressaDaCosta?label=follow&style=social)](https://github.com/AndressaDaCosta)
 
          
     
@@ -23,7 +28,7 @@
 
 ## 🏆 Github Status
 </p> <img width="260" align="right" alt="Woman Coder.gif" src="Woman Coder.gif" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&" alt="AndressaDaCosta" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
 
 
 
@@ -48,12 +53,10 @@
 
 
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndressaDaCosta&show_icons=true&locale=en&layout=compact" alt="AndressaDaCosta" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaDaCosta&layout=compact&langs_count=7&theme=tokyonight"/></p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&" alt="AndressaDaCosta" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&7&theme=tokyonight" alt="AndressaDaCosta" /></p>
 
 <hr>
 
@@ -61,7 +64,7 @@
 <!--- Snake: --->
 
 <p align="center">
-  <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" theme="tokyonight" alt="snake"></center>
 </p>
   
  
