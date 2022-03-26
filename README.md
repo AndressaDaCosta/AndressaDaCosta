@@ -12,7 +12,7 @@
   <br>
  ⚡ Fun fact: I love Astronomy :woman_astronaut: :ringed_planet:  :stars: 
   <br>
-<img  width="260" src="https://img.freepik.com/vetores-gratis/designer-feminino-trabalhando-ate-tarde-na-ilustracao-plana-do-quarto-aluno-de-desenho-animado-usando-um-laptop-a-noite-e-sentado-na-mesa_74855-14019.jpg?t=st=1648151212~exp=1648151812~hmac=63eb15373ac5f02cb76885b514e9c0c5fbe07d30232d60d894ba5cb3a1db14b6&w=740"><br>
+<img  width="260" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
   <img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=Profile%20views&color=0e75b6&style=flat" alt="AndressaDaCosta" /> 
 
 ## 📫 How to reach me:
