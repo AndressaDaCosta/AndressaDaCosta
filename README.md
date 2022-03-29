@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<a href="https://codepen.io/andressadacosta"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://codepen.io/andressadacosta"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/><br>
   
   
@@ -51,6 +51,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&7&theme=tokyonight" alt="AndressaDaCosta" />
 
 
+  
+  ## Visitas no pefil - Atividade <!-- visitors count --> <p align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" /> </p>
 <!--- Snake: --->
 
   <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake">
