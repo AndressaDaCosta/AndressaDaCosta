@@ -47,10 +47,12 @@
   
   
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaDaCosta&layout=compact&langs_count=7&theme=tokyonight"/><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaDaCosta&7&theme=tokyonight)](https://github.com/AndressadaCosta/github-readme-stats)<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&7&theme=tokyonight" alt="AndressaDaCosta" />
 
 
+
+  
   
   ## Visitas no pefil - Atividade <!-- visitors count --> <p align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" /> </p>
 <!--- Snake: --->
