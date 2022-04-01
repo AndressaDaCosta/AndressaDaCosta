@@ -47,7 +47,7 @@
   
   
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaDaCosta&7&theme=tokyonight)](https://github.com/AndressadaCosta/github-readme-stats)<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaDaCosta&&layout=compact&7&theme=tokyonight)](https://github.com/AndressadaCosta/github-readme-stats)<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&7&theme=tokyonight" alt="AndressaDaCosta" />
 
 
