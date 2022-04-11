@@ -1,4 +1,4 @@
-<h1 align="center">  Hi there  <img alt = gif src ="hand.gif" width= "20"/>, I'm @Andressa Costa</h1>
+<h1 align="center">  Hi there  <img alt = gif src ="hand.gif" width= "30"/> I'm @Andressa Da Costa</h1>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 <img  width="260" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
   <img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=Profile%20views&color=0e75b6&style=flat" alt="AndressaDaCosta" /> 
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 <a href="mailto:andressadacostan@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <a href="https://t.me/andressadacosta"><img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -34,12 +34,12 @@
   
 ## 👨‍💻 Tech Stack I am Familiar With
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <a href="https://codepen.io/andressadacosta"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white"/></a>
