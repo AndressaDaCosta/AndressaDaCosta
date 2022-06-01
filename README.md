@@ -1,7 +1,11 @@
-<h1 align="center">  Hi there  <img alt = gif src ="hand.gif" width= "30"/> I'm @Andressa Da Costa</h1>
+<h1 align="center">  Hi there  <img alt = gif src ="hand.gif" width= "30"/> I'm Andressa Da Costa</h1>
 
 <div align="center">
-  
+ 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=061119&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student">
+
+
+
   
 
   
