@@ -55,6 +55,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressaDaCosta&7&theme=tokyonight" alt="AndressaDaCosta" />
 
 
+   ##
+  
+  <div align="center">
+       <h3>Badges Alura</h3>
+  </div>
+   <div style="display:flex; " align="center">
+          <img align="center" alt="Andressa-badges"  width="150" src="...">
+           <img align="center" alt="Andressa-badges"  width="150" src="...">
+   <div/>
 
   
   
