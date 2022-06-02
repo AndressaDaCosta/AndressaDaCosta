@@ -61,8 +61,8 @@
        <h3>Badges Alura</h3>
   </div>
    <div style="display:flex; " align="center">
-          <img align="center" alt="Andressa-badges"  width="150" src="...">
-           <img align="center" alt="Andressa-badges"  width="150" src="...">
+          <img align="center" alt="Andressa-badges"  width="150" src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true">
+           <img align="center" alt="Andressa-badges"  width="150" src="https://github.com/AndressaDaCosta/jogo-da-forca/blob/main/img/badge-js.png">
    <div/>
 
   
