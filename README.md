@@ -1,23 +1,21 @@
 <h1 align="center">  Hi there  <img alt = gif src ="hand.gif" width= "30"/> I'm Andressa Da Costa</h1>
 
-<div align="center">
+### 
+
+<section align="center">
  
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=061119&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=061119&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student">
 
 
-
-  
-
-  
-
-  👩‍💻  I'm currently learning programming :rocket:
+  👩‍💻  I'm currently learning programming Alura + Oracle: ONE & StartaIdeia + Rocketseat: IGNITE :rocket:
   <br>
  💬 Ask me about ... HTML, CSS, JavaScript...
   <br>
  ⚡ Fun fact: I love Astronomy :woman_astronaut: :ringed_planet:  :stars: 
   <br>
-<img  width="260" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
-  <img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=Profile%20views&color=0e75b6&style=flat" alt="AndressaDaCosta" /> 
+ 
+<img  width="260" src="https://github.com/AndressaDaCosta/AndressaDaCosta/blob/main/computer-illustration.png?raw=true"><br>
+<img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=Profile%20views&color=0e75b6&style=flat" alt="AndressaDaCosta" /> 
 
 ## 📫 How to reach me
 
@@ -56,23 +54,21 @@
 
 
    ##
+  <h2>Badges Alura</h2>
   
-  <div align="center">
-       <h2>Badges Alura</h2>
-  </div>
-   <div style="display:flex; " align="center">
-          <img align="center" alt="Andressa-badges"  width="250" src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true">
-           <img align="center" alt="Andressa-badges"  width="250" src="https://github.com/AndressaDaCosta/jogo-da-forca/blob/main/img/badge-js.png">
+  <div style="display:flex" align="center">
+    <img alt="Andressa-badges"width="250"src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true">
+     <img alt="Andressa-badges"  width="250" src="https://github.com/AndressaDaCosta/jogo-da-forca/blob/main/img/badge-js.png">
    <div/>
 
   
   
-  ## Visitas no pefil - Atividade <!-- visitors count --> <p align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" /> </p>
+  ## Visitas no pefil - Atividade <!-- visitors count --> <div align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" /> </div>
 <!--- Snake: --->
 
   <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake">
 
- </div>
+ </section>
 
 
 
