@@ -62,9 +62,9 @@
      <img alt="Andressa-badges" width="250" src="https://github.com/AndressaDaCosta/my-portfolio/blob/main/public/insignia3.png">
    <div/>
 
-  
-  
-  ## Visitas no pefil - Atividade <!-- visitors count --> <div align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" /> </div>
+  <!---  visitors count
+  ## Visitas no pefil - Atividade <div align="center" > <img src="https://profile-counter.glitch.me/AndressaDaCosta/count.svg" />   --->
+</div>
 <!--- Snake: --->
 
   <img src="https://github.com/AndressaDaCosta/AndressaDaCosta/raw/output/github-contribution-grid-snake.svg" alt="snake">
