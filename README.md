@@ -9,6 +9,8 @@
 
   👩‍💻  I'm currently learning programming Alura + Oracle: ONE & StartaIdeia + Rocketseat: IGNITE :rocket:
   <br>
+  👩🏻‍🎨 & learning  Ux Design Coursera + Google 
+  <br>
  💬 Ask me about ... HTML, CSS, JavaScript...
   <br>
  ⚡ Fun fact: I love Astronomy :woman_astronaut: :ringed_planet:  :stars: 
