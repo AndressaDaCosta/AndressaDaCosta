@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=061119&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student;I`m+a+Ux+Design+Student">
 
 
-  👩‍💻  I'm currently learning programming Alura + Oracle: ONE & StartaIdeia + Rocketseat: IGNITE :rocket:
+  👩‍💻  I'm currently learning programming Alura + Oracle: ONE 
   <br>
   👩🏻‍🎨 & learning  Ux Design Coursera + Google 
   <br>
@@ -90,6 +90,7 @@
   
   <!---
 AndressaDaCosta/AndressaDaCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+& StartaIdeia + Rocketseat: IGNITE :rocket:
 
 --->
 
