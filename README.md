@@ -8,8 +8,7 @@
 
 
   👩‍💻  I'm currently learning programming Alura + Oracle: ONE & StartaIdeia + Rocketseat: IGNITE :rocket:
-
-  <br>
+<br>
   👩🏻‍🎨 & learning  Ux Design Coursera + Google 
   <br>
  💬 Ask me about ... HTML, CSS, JavaScript...
@@ -34,9 +33,9 @@
 
 
   
-
+  <!--- 
 ## 🏆 Github Status
-   <!--- 
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=AndressaDaCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
    
   --->
