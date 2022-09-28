@@ -62,10 +62,12 @@
   <h2>Badges Alura</h2>
   
   <div style="display:flex" align="center">
-    <img alt="Andressa-badges"width="200"src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true">
-     <img alt="Andressa-badges"  width="200" src="https://github.com/AndressaDaCosta/jogo-da-forca/blob/main/img/badge-js.png">
-     <img alt="Andressa-badges" width="200" src="https://github.com/AndressaDaCosta/my-portfolio/blob/main/public/insignia3.png">
-     <img alt="Andressa-badges" width="200" src="https://github.com/AndressaDaCosta/alura-geek-store/blob/main/assets/img/Badge_Geek_Alura_ChallengeOracleONE_2000x2000.png?raw=true">
+    <img alt="Andressa-badges"width="160"src="https://github.com/AndressaDaCosta/codificador_decodificador_texto/blob/main/img/badge1.png?raw=true">
+     <img alt="Andressa-badges"  width="160" src="https://github.com/AndressaDaCosta/jogo-da-forca/blob/main/img/badge-js.png">
+     <img alt="Andressa-badges" width="160" src="https://github.com/AndressaDaCosta/my-portfolio/blob/main/public/insignia3.png">
+     <img alt="Andressa-badges" width="160" src="https://github.com/AndressaDaCosta/alura-geek-store/blob/main/assets/img/Badge_Geek_Alura_ChallengeOracleONE_2000x2000.png?raw=true">
+     <img alt="Andressa-badges"  width="160" src="https://github.com/AndressaDaCosta/conversor-de-moedas-e-medidas/blob/main/badge-java1.png?raw=true">
+       <img alt="Andressa-badges"  width="160" src="https://github.com/AndressaDaCosta/challenge-Alura-Hotel/blob/main/badge-java2.png?raw=true">
    <div/>
 
   <!---  visitors count
