@@ -5,7 +5,7 @@
 
 <section align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=993399&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student;I`m+a+Ux+Design+Student">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7C3AED&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student;I`m+a+Ux+Design+Student">
 
   👩🏻‍💻  I'm currently learning programming Laracasts & Rocketseat + StartaIdeia: IGNITE :rocket:
 <br>
@@ -17,7 +17,7 @@
   <br>
  
 <img width="260" src="https://github.com/AndressaDaCosta/AndressaDaCosta/blob/main/computer-illustration.png?raw=true"><br>
-<img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=PROFILE%20VIEWS&color=9400d3&style=flat" alt="AndressaDaCosta" /> 
+<img src="https://komarev.com/ghpvc/?username=AndressaDaCosta&label=PROFILE%20VIEWS&color=7C3AED&style=flat" alt="AndressaDaCosta" /> 
 
 
 
