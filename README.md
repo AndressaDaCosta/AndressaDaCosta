@@ -7,11 +7,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7C3AED&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student;I`m+a+Ux+Design+Student">
 
-  👩🏻‍💻  I'm currently learning programming Laracasts & Rocketseat + StartaIdeia: IGNITE :rocket:
+  👩🏻‍💻  I'm currently learning at Rocketseat + StartaIdeia: IGNITE :rocket:
 <br>
-  👩🏻‍🎨 & learning  Ux Design Coursera + Google 
+  👩🏻‍🎨 I finished the professional training Ux Design: Coursera + Google & Alura + Oracle ONE - Full Stack Developer Training
   <br>
- 💬 Ask me about ... HTML, CSS, JavaScript...
+ 💬 Ask me about ... HTML, CSS, JavaScript, ReactJS...
   <br>
  ⚡ Fun fact: I love Astronomy :woman_astronaut: :ringed_planet:  :stars: 
   <br>
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
 <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -38,6 +38,7 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=007fff">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
@@ -81,6 +82,11 @@
       <img alt="Andressa-badges"  width="130" src="https://github.com/AndressaDaCosta/challenge-Alura-Hotel/blob/main/badge-java2.png">
    </div>
    
+  # 
+  
+  ## Badge Google Professional Ux Design + Coursera
+  
+  <img width="250" src="./certificado-profissional-de-ux-design-do-google.png">
 
 <!--- Snake: --->
 
