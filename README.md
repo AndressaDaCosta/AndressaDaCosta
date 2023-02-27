@@ -32,7 +32,9 @@
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/ENGLISH_★★★★✩-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%85%20styled--components-db748e.svg?style=for-the-badge">
 
+<!--   .  colorB=daa357 -->
 
 ## 📚 Learning
 
