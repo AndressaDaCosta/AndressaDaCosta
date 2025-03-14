@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7C3AED&center=true&vCenter=true&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+Web+Development+Student;I`m+a+Ux+Design+Student">
 
   
- 👩🏻‍💻 I am currently working at the company CONVEM - Fintechs & E-commerce 🏢
+<!--  👩🏻‍💻 I am currently working at the company CONVEM - Fintechs & E-commerce 🏢 -->
 <br>
  📚 I'm learning at Rocketseat + StartaIdeia: IGNITE :rocket:
 <br>
