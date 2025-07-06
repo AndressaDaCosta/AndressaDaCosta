@@ -9,6 +9,10 @@
 
   
 <!--  👩🏻‍💻 I am currently working at the company CONVEM - Fintechs & E-commerce 🏢 -->
+<!--  👩🏻‍💻 I am currently working at the company Tupi - Fintech 🏢 -->
+
+<br>
+ 📚 I'm learning at Senai + Lab365: Joinville+Tech :rocket:
 <br>
  📚 I'm learning at Rocketseat + StartaIdeia: IGNITE :rocket:
 <br>
